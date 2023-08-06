@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 🔭 I'm currently working on big team web project with backend on C# and PostgreSQL and frontend on ReactJS.
+- 🔭 I'm currently working on a big team web project with backend on C# and PostgreSQL and frontend on ReactJS.
 
 - 🌱 I’m currently developing my React and C# skills, i also started to learn Java.
 
-- 🤝 I'm looking for my first job in IT in specialization on I’m looking to collaborate on projects related to C#, .NET, JavaScript, React, SQL or Python.
+- 🤝 I'm looking for my first job in IT in specialization on C#, .NET, JavaScript, React, SQL or Python.
 
 - 📝 I regularly write articles on [https://cyfrowy-obywatel.pl/artykuly/](https://cyfrowy-obywatel.pl/artykuly/)
 
